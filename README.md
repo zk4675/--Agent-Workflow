@@ -15,7 +15,9 @@
 * `main.py`: 基于 Coze API 封装的本地调用脚本。
 
 ## 🖼️ 架构图与效果演示
-**(在这里插入你的 workflow_architecture.png 和 demo_result.png 的图片链接)**
+
+<img width="1894" height="562" alt="a7352ac9-09f5-42d8-8dd1-3a3d649ff09b" src="https://github.com/user-attachments/assets/c1caa52f-8c2e-4393-953c-b6d3bee5dbf3" />
+
 
 ## 🚀 业务价值
 将手工用例的排版与格式化时间缩短 80%，有效避免因个人经验导致的漏测，统一团队测试产出规范。
